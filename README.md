@@ -22,7 +22,22 @@ Die Entscheidung fiel eindeutig auf **React**.
 * chaotischen Ansatz der Alternative.
 * 
 ## 16.1
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+## 🚀 Planung der nächsten Sitzung
+
+Hier sind die 4 definierten Arbeitspakete für die Weiterentwicklung:
+
+1.  [ ] **Komponenten & Props verstehen**
+    * Zerlegen der App in wiederverwendbare Teile (z.B. eine `<Header />` oder `<UserCard />` Komponente erstellen).
+    * Daten mittels *Props* von der Hauptkomponente an die Unterkomponenten übergeben.
+
+2.  [ ] **Interaktivität mit State (useState)**
+    * Einbau einer einfachen Interaktion, z.B. ein Zähler-Button oder ein Textfeld, das den Inhalt live auf dem Bildschirm ändert.
+    * Ziel: Verstehen, wie sich die UI ändert, wenn sich Daten ändern.
+
+3.  [ ] **Styling & Layout**
+    * Entfernen des Standard-React-Logos und der Standard-Styles.
+    * Anwenden von eigenem CSS (oder einer Bibliothek wie Bootstrap/Tailwind), um ein einfaches Raster-Layout zu erstellen.
+
+4.  [ ] **Deployment (Asynchron)**
+    * *Aufgabe:* Verknüpfung des GitHub-Repositories mit einem Hostinganbieter (Empfehlung: **Vercel** oder **Netlify**).
+    * *Ziel:* Die App soll nicht mehr nur auf `localhost` laufen, sondern über eine öffentliche URL für jeden erreichbar sein.
