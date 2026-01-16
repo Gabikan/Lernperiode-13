@@ -20,7 +20,7 @@ Die Entscheidung fiel eindeutig auf **React**.
 * mit, während React uns volle Flexibilität im Frontend bietet.
 * **Gegenüber Spaghetti-JS:** React bietet eine klare Struktur durch Komponenten, ein riesiges Ökosystem und eine starke Community. Das sorgt für wartbaren Code und eine gute Lernkurve, im Gegensatz zum
 * chaotischen Ansatz der Alternative.
-* 
+  
 ## 16.1
 ## 🚀 Planung der nächsten Sitzung
 
