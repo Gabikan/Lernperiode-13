@@ -1,16 +1,16 @@
 # Lernperiode-13
 ## 9.1
-**React** ⚛️
+**React** 
   * *Typ:* JavaScript-Bibliothek für User Interfaces.
   * *Fokus:* Komponenten-basierte Entwicklung, Single Page Applications (SPA).
-2.  **WordPress** 📝
+2.  **WordPress** 
     * *Typ:* Content Management System (CMS).
     * *Fokus:* Schnelles Erstellen von Webseiten und Blogs, PHP-basiert.
-3.  **Spaghetti-JS 🍝 (Legacy Edition)**
+3.  **Spaghetti-JS (Legacy Edition)**
     * *Typ:* Veraltetes, fiktives Framework.
     * *Fokus:* Code ohne Struktur schreiben, den niemand mehr warten kann.
 
-### ✅ Entscheidung & Begründung
+### Entscheidung & Begründung
 
 **Gewählte Technologie:** **React**
 
@@ -41,3 +41,14 @@ Hier sind die 4 definierten Arbeitspakete für die Weiterentwicklung:
 4.  [ ] **Deployment (Asynchron)**
     * *Aufgabe:* Verknüpfung des GitHub-Repositories mit einem Hostinganbieter (Empfehlung: **Vercel** oder **Netlify**).
     * *Ziel:* Die App soll nicht mehr nur auf `localhost` laufen, sondern über eine öffentliche URL für jeden erreichbar sein.
+      
+## Heute habe ich...
+an der Bewerbungswebsite für Herrn Fiechter gearbeitet. Ich musste die Website 
+
+    
+## 23.1
+- [ ] Hosten auf InfinityFree
+- [ ] php zum funktionieren bringen
+- [ ] 
+
+
