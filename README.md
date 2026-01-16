@@ -1,8 +1,8 @@
 # Lernperiode-13
 ## 9.1
 **React** ⚛️
-    * *Typ:* JavaScript-Bibliothek für User Interfaces.
-    * *Fokus:* Komponenten-basierte Entwicklung, Single Page Applications (SPA).
+  * *Typ:* JavaScript-Bibliothek für User Interfaces.
+  * *Fokus:* Komponenten-basierte Entwicklung, Single Page Applications (SPA).
 2.  **WordPress** 📝
     * *Typ:* Content Management System (CMS).
     * *Fokus:* Schnelles Erstellen von Webseiten und Blogs, PHP-basiert.
